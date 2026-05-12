@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Interfaccia/">
+    <file alias="Main.qml">C:/Users/rotar/Desktop/Interfaccia/Main.qml</file>
+  </qresource>
+</RCC>
+

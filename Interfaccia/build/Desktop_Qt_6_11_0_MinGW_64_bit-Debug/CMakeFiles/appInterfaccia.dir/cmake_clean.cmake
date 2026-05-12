@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appInterfaccia_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_Interfaccia.cpp"
+  ".rcc/qmlcache/appInterfaccia_Main_qml.cpp"
+  ".rcc/qmlcache/appInterfaccia_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appInterfaccia_qmlcache_loader.cpp"
+  "CMakeFiles/appInterfaccia_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appInterfaccia_autogen.dir/ParseCache.txt"
+  "appInterfaccia_autogen"
+  "CMakeFiles/appInterfaccia.dir/appInterfaccia_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appInterfaccia.dir/appInterfaccia_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appInterfaccia.dir/appinterfaccia_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appInterfaccia.dir/appinterfaccia_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appInterfaccia.dir/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appInterfaccia_raw_qml_0.cpp.obj"
+  "CMakeFiles/appInterfaccia.dir/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appInterfaccia_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appInterfaccia.dir/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Interfaccia.cpp.obj"
+  "CMakeFiles/appInterfaccia.dir/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Interfaccia.cpp.obj.d"
+  "CMakeFiles/appInterfaccia.dir/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.rcc/qmlcache/appInterfaccia_Main_qml.cpp.obj"
+  "CMakeFiles/appInterfaccia.dir/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.rcc/qmlcache/appInterfaccia_Main_qml.cpp.obj.d"
+  "CMakeFiles/appInterfaccia.dir/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.rcc/qmlcache/appInterfaccia_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appInterfaccia.dir/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.rcc/qmlcache/appInterfaccia_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appInterfaccia.dir/main.cpp.obj"
+  "CMakeFiles/appInterfaccia.dir/main.cpp.obj.d"
+  "CMakeFiles/appInterfaccia.dir/musicprovider.cpp.obj"
+  "CMakeFiles/appInterfaccia.dir/musicprovider.cpp.obj.d"
+  "Interfaccia/appInterfaccia.qmltypes"
+  "appInterfaccia.exe"
+  "appInterfaccia.exe.manifest"
+  "appInterfaccia.pdb"
+  "appInterfaccia_autogen/mocs_compilation.cpp"
+  "appInterfaccia_autogen/timestamp"
+  "appinterfaccia_qmltyperegistrations.cpp"
+  "libappInterfaccia.dll.a"
+  "meta_types/appInterfaccia_json_file_list.txt"
+  "meta_types/appInterfaccia_json_file_list.txt.timestamp"
+  "meta_types/qt6appinterfaccia_metatypes.json"
+  "meta_types/qt6appinterfaccia_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appInterfaccia.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

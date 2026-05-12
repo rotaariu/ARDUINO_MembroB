@@ -1,0 +1,6 @@
+module Interfaccia
+typeinfo appInterfaccia.qmltypes
+prefer :/qt/qml/Interfaccia/
+Main 254.0 Main.qml
+depends QtQuick
+

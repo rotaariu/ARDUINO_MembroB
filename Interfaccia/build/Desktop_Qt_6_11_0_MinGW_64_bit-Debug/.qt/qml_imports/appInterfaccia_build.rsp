@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/rotar/Desktop/Interfaccia
+-cmake-output
+-output-file
+C:/Users/rotar/Desktop/Interfaccia/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/qml_imports/appInterfaccia_build.cmake
+-importPath
+C:/Users/rotar/Desktop/Interfaccia/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug
+-importPath
+C:/Users/rotar/Desktop/Interfaccia/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/Interfaccia
+-importPath
+C:/Qt/6.11.0/mingw_64/qml
+-qrcFiles
+C:/Users/rotar/Desktop/Interfaccia/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/qmake_Interfaccia.qrc
+C:/Users/rotar/Desktop/Interfaccia/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/appInterfaccia_raw_qml_0.qrc
